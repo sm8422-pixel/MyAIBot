@@ -7,7 +7,7 @@ from openai import OpenAI
 TELEGRAM_TOKEN = "8804597208:AAF97O9BLyhVyL5AzAvOzdZrRtthOwBJpsQ"
 
 # إعداد الذكاء الاصطناعي
-client = OpenAI(api_key="ضع_مفتاح_OpenAI_هنا_إذا_كنت_تستخدم_سيرفر_خارجي")
+client = OpenAI(api_key="AQ.Ab8RN6LLHjwC0ExRl1IZioYTwmrTq6JQR1ewfDWkgSx_WlhVpw")
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
